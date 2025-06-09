@@ -3,6 +3,8 @@
 # my proj video
 https://github.com/user-attachments/assets/012adebf-18f5-4557-bb69-db1f8427ffc4
 
+![Image](https://github.com/user-attachments/assets/b12d2c2a-eb41-4573-99fa-cbfb665b3ded)
+
 ## Background
 
 The MediLink project is designed as an 8-day educational workshop where students build an end-to-end medical appointment and health record management application. The focus is on introducing core software engineering principles, Git version control, and full-stack development using MERN for backend and web frontend, and Kotlin Composable for mobile development. The project is designed to parallelize backend, web, and mobile development efforts, simulating a real-world development workflow.
